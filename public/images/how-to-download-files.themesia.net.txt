@@ -1,0 +1,13 @@
+If you want to download, make sure you remember the username and the email you use to register at Themesia, and the email address MUST active and can receive an email from "noreply@themesia.net".
+
+1. Open this link https://files.themesia.net
+2. Enter your username
+3. Enter the email address associated with your themesia account.
+4. Recaptcha validation
+5. Click Request
+
+After clicking Request, the download link will be sent to your email address associated with your themesia account, you can check your email's inbox or spam folder.
+
+Themesia will ONLY send the email from "noreply@themesia.net", other than that is not ours.
+
+please do not send any email to "noreply@themesia.net", if you have any question please contact us from facebook fanspage.
